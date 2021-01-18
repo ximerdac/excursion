@@ -1,8 +1,10 @@
+/* Body */
+
 body {
     background-color: black;
     text-align: center;
 }
-
+/* Header */
 .header--main {
     font-family: Verdana;
     font-weight: normal;
@@ -23,10 +25,19 @@ p {
     font-size: 42px;
     color: white;
 }
-
-.middleg {
+/* Grey content */
+.middlegandfooter {
     color: grey;
     font-size: 21px;
     font-family: Verdana;
+    font-weight: normal;
+}
+/* Footer */
+.footer {
+    color: grey;
+    font-size: 21px;
+    font-family: Verdana;
+    text-align: right;
+    font-weight: normal;
 }
 
